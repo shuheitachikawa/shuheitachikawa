@@ -1,3 +1,3 @@
 ## Product
-- PiTARI: https://pitari.me => gourmet matching service designed for ｐeople seeking restaurants that meet their real needs.
+- PiTARI: https://pitari.me => gourmet matching service.
 - Personal Blog: https://bubekiti.com
